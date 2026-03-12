@@ -1,0 +1,20 @@
+# Core dependencies
+pandas>=2.0.0
+polars>=0.20.0
+duckdb>=0.10.0
+sqlalchemy>=2.0.0
+
+# Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Data processing
+python-dateutil>=2.8.0
+pyarrow>=14.0.0
+
+# Logging and utilities
+structlog>=24.0.0
+
+# Optional: ML/forecasting
+scikit-learn>=1.4.0
+statsmodels>=0.14.0
