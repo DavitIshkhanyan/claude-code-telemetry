@@ -87,10 +87,6 @@ venv.bak/
 *.db
 *.sqlite
 
-# Log files
-logs/
-*.log
-
 # Data files (keep structure, ignore large files)
 data/
 output/*.jsonl
@@ -99,6 +95,3 @@ output/*.jsonl
 *.tmp
 *.temp
 .temp/
-
-# Assignment PDF
-*.pdf
