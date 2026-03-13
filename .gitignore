@@ -89,7 +89,7 @@ venv.bak/
 
 # Data files (keep structure, ignore large files)
 data/
-output/*.jsonl
+output/
 
 # Temporary files
 *.tmp
